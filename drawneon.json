@@ -184,8 +184,7 @@
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-22.png",
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-23.png",
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-24.png",
-     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-25.png",
-     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-26.png"
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/holiday/item-25.png"
     
   ],
    "learning": [
@@ -310,5 +309,56 @@
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/weather/item-21.png",
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/weather/item-22.png",
      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/weather/item-23.png"
+  ],
+   "emoji": [
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item.png",
+      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-1.png",
+      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-2.png",
+      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-3.png",
+      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-4.png",
+      "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-5.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-6.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-7.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-8.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-9.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-10.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-11.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-12.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-13.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-14.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-15.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-16.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-17.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-18.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-19.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-20.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-21.png",
+     "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/emoji/item-22.png"
+   ],
+  "city": [
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-1.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-2.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-3.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-4.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-5.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-6.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-7.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-8.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-9.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-10.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-11.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-12.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-13.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-14.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-15.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-16.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-17.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-18.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-19.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-20.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-21.png",
+    "https://raw.githubusercontent.com/thuannv96/Draw-Neon/refs/heads/main/city/item-22.png"
+
   ]
 }
